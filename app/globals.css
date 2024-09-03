@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input {
+  @aplly w-[400px] border border-gray-200 py-2 px6
+  bg-zinc-100/40;
+}
